@@ -6,6 +6,7 @@
 - Detecting whether a person is wearing a mask or not, given an image or real-time video
 
 **Two-Phased Approach Methodology**
+
 Phase 1: Image Classfication 
 CNN Model built from scratch, VGG16, ResNet152V2, MobileNetV2, InceptionV3, Xception
 
